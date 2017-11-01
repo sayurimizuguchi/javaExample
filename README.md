@@ -14,4 +14,4 @@ Link para download do arquivo [jstl-1.2.jar](https://drive.google.com/open?id=0B
     nome VARCHAR(50) NOT NULL,
     fone VARCHAR(50) NOT NULL,
     email VARCHAR(30)
-);```
+);
