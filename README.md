@@ -9,9 +9,9 @@ Link para download do arquivo [jstl-1.2.jar](https://drive.google.com/open?id=0B
 
 ### Tabela para uso desse CRUD:
 
-´´´CREATE TABLE clientes(
+```CREATE TABLE clientes(
     codigo INT NOT NULL PRIMARY KEY,
     nome VARCHAR(50) NOT NULL,
     fone VARCHAR(50) NOT NULL,
     email VARCHAR(30)
-);´´´
+);```
